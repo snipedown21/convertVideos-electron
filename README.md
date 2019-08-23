@@ -4,3 +4,10 @@ This is a project written in electron to select video(s) from the file system, c
 # progress bar for video conversion(s).
 # show in folder button enables quick access to converted file.
 # add more video(s) during the time of a running conversion
+
+
+Get started running this app by:
+* In a new terminal tab, cd into the app directory and run 'npm start'
+* In a new terminal tab, cd into the app directory and run 'npm run electron'
+
+Note: If you find a plain window(absolutely no content) loading at the beginning, simply reload with the command + R on a mac, and Ctrl + R on windows.

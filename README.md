@@ -7,7 +7,6 @@ This is a project written in electron to select video(s) from the file system, c
 
 
 Get started running this app by:
-* In a new terminal tab, cd into the app directory and run 'npm start'
-* In a new terminal tab, cd into the app directory and run 'npm run electron'
+* In a new terminal tab, cd into the app directory and run 'npm run start'
 
 Note: If you find a plain window(absolutely no content) loading at the beginning, simply reload with the command + R on a mac, and Ctrl + R on windows.

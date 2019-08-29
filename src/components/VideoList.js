@@ -86,7 +86,7 @@ const styles = {
     top: 0,
     bottom: 0,
     left: 0,
-    backgroundColor: '#03a9f4',
+    backgroundColor: '#a5c1fd',
     opacity: 0.25
   },
   secondaryContent: {
